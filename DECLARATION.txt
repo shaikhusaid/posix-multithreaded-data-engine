@@ -1,0 +1,23 @@
+ACADEMIC HONESTY DECLARATION
+============================
+
+Project: CS-2006 Operating Systems — Final Term Project (Spring 2026)
+Variant: Retail Transactions
+
+We, the undersigned, declare that:
+
+1. The work submitted is entirely our own, developed individually/as a group.
+2. We have not copied code from other students or from the internet without
+   proper acknowledgement.
+3. We have not used AI tools to generate our implementation code.
+4. We understand that plagiarism or academic dishonesty will result in
+   zero marks for the entire group.
+5. Every group member is able to explain every line of code submitted.
+
+Group Members:
+--------------
+Name: ________________________  Roll No: ____________  Signature: ____________
+Name: ________________________  Roll No: ____________  Signature: ____________
+Name: ________________________  Roll No: ____________  Signature: ____________
+
+Date: ____________
